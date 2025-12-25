@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="./img/header.png" alt="header" />
 
-<!--
-**toshuuu/toshuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=4CEFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Toshal;Learning+Full+Stack+Development" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🏫 I’m currently learning **MERN Stack (Node.js)**  
+
+💬 Ask me about **Frontend Development, MERN Stack & Data Structures and Algorithms**  
+
+🔎 I’m actively working on **JavaScript projects**  
+
+📫 How to reach me: **toshalkirange8@gmail.com**
+
+<br>
+
+<h2 align="center">Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github" />
+</p>
